@@ -100,3 +100,18 @@ BackgroundRemoverCD/
 ├── Main.py             # Main entry point and application logic
 ├── logoBackgroundRemoverCD.png  # App logo
 └── ...
+
+🔜 Roadmap
+
+- [ ] Add support for batch processing (multiple images at once).
+- [ ] Allow users to choose a custom save location.
+- [ ] Add drag-and-drop functionality.
+- [ ] Add a loading spinner during processing.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to open an issue or submit a pull request.
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
