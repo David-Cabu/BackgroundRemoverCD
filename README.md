@@ -94,7 +94,7 @@ Ensure you have Python installed (version 3.x is recommended).
 
 
 
-##🔜 Roadmap
+## 🔜 Roadmap
 
 - [ ] Add support for batch processing (multiple images at once).
 - [ ] Allow users to choose a custom save location.
