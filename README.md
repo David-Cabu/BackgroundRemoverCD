@@ -1,5 +1,4 @@
 # BackgroundRemoverCD
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/David-Cabu/BackgroundRemoverCD.git)
 
 A simple desktop application for removing backgrounds from images. Built with Python and `customtkinter`, this tool provides a user-friendly interface to quickly process your photos and save a version with a transparent background.
 
