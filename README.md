@@ -92,16 +92,9 @@ Ensure you have Python installed (version 3.x is recommended).
 5.  Wait a moment for the magic to happen. The transparent result will appear on the right.
 6.  Check your **Downloads** folder for the file ending in `_WithoutBackground.png`.
 
-## 📂 Project Structure
 
-```text
-BackgroundRemoverCD/
-├── AppGraphics.py      # Handles UI layout and CustomTkinter widgets
-├── Main.py             # Main entry point and application logic
-├── logoBackgroundRemoverCD.png  # App logo
-└── ...
 
-🔜 Roadmap
+##🔜 Roadmap
 
 - [ ] Add support for batch processing (multiple images at once).
 - [ ] Allow users to choose a custom save location.
